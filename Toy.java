@@ -1,5 +1,3 @@
-package toyShop;
-
 import java.io.Serializable;
 
 public class Toy implements Serializable {

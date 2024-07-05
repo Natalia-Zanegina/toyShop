@@ -1,7 +1,3 @@
-package toyShop;
-
-import toyShop.Toy;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
